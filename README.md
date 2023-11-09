@@ -12,8 +12,6 @@
 
 - 🤝 I'm looking to implement the **FOSS Stacks**
 
-- 👨‍💻 All of my projects are available [@Alex-philip5](github.com/Alex-philip5)
-
 - 🌟 On a journey to **Lead**
 
 - ⚡ Music, gaming, and **Web series lover**
